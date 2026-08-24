@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>El Tenis</title>
+</head>
+
+<body>
+
+    <h1>El Tenis</h1>
+
+    <p>El tenis es un deporte que se juega entre dos jugadores o entre dos parejas. El objetivo es pasar la pelota por encima de la red y tratar de que el otro jugador no pueda devolverla.</p>
+
+    <p>Es un deporte que necesita práctica, velocidad y concentración. También ayuda a mejorar la coordinación y la resistencia.</p>
+
+    <h2>3 datos sobre el tenis</h2>
+
+    <ul>
+        <li>Se puede jugar individual o en parejas.</li>
+        <li>Se puede jugar en diferentes superficies.</li>
+        <li>Se usa una raqueta y una pelota.</li>
+    </ul>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Tennis_Racket_and_Balls.jpg" alt="Raqueta y pelotas de tenis" width="400">
+
+    <p>
+        Para conocer más sobre el tenis podés visitar
+        <a href="https://www.atptour.com/">la página oficial de ATP</a>.
+    </p>
+
+</body>
+
+</html>
